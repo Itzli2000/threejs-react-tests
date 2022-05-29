@@ -308,6 +308,11 @@
   resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.2.tgz#1a62f89525723dde24ba1b01b092bf5df8ad4d39"
   integrity sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==
 
+"@types/three@^0.140.0":
+  version "0.140.0"
+  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.140.0.tgz#3b74a021a69a6e2cd0e2550def15aa4c1c20e924"
+  integrity sha512-YPJLSIY6uKUOp1k6BZYDq5GtEIdhfeK04UCbc9IPAVbdn/RNjkfrbnyd7smrsNkJhc0IFASLpd3AAYgwqgXKVQ==
+
 "@vitejs/plugin-react@^1.3.0":
   version "1.3.2"
   resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-1.3.2.tgz#2fcf0b6ce9bcdcd4cec5c760c199779d5657ece1"
@@ -700,6 +705,11 @@ supports-preserve-symlinks-flag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
+
+three@^0.141.0:
+  version "0.141.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.141.0.tgz#16677a12b9dd0c3e1568ebad0fd09de15d5a8216"
+  integrity sha512-JaSDAPWuk4RTzG5BYRQm8YZbERUxTfTDVouWgHMisS2to4E5fotMS9F2zPFNOIJyEFTTQDDKPpsgZVThKU3pXA==
 
 to-fast-properties@^2.0.0:
   version "2.0.0"
